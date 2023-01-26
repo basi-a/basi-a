@@ -17,15 +17,11 @@
 </table>
 ### Top Repositories
 
-<table border="1">
-  <tr>
-      <td>
-        <a href="https://github.com/basi-a/my-suckless">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=basi-a&repo=my-suckless&theme=buefy" />
-        </a>
-        <a href="https://github.com/basi-a/basi-a/github.io">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=basi-a&repo=basi-a.github.io&theme=buefy" />
-        </a>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/basi-a/my-suckless">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=basi-a&repo=my-suckless&theme=buefy" />
+</a>
+<br></br>
+<a href="https://github.com/basi-a/basi-a/github.io">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=basi-a&repo=basi-a.github.io&theme=buefy" />
+</a>
+
