@@ -15,7 +15,8 @@
     </td>
   </tr>
 </table>
-### Top Repositories
+
+#### Top Repositories
 <br></br>
 <a href="https://github.com/basi-a/my-suckless">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=basi-a&repo=my-suckless&theme=buefy" />
